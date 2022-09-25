@@ -7,6 +7,8 @@ The application will be live as soon as I find the solution.
 
 I have already uploaded the demonstration video link of the project management system in the description of the project. Please check it out.
 
+This application is used for assigning tasks, sending notes, and assigning priorities of work to developers. For keeping a track record of project development. 
+
 This application is developed by using insights from the youtube channel Dennis Ivys.
 
 Thank you for showing your interest.
